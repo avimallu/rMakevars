@@ -1,0 +1,11 @@
+CC = /usr/bin/gcc64
+CXX = /usr/bin/g++
+CXX11 = /usr/bin/g++
+CXX14= /usr/bin/g++
+CXX17= /usr/bin/g++
+CXX1X= /usr/bin/g++
+FC = /usr/bin/gfortran48
+SHLIB_OPENMP_CFLAGS = -fopenmp
+SHLIB_OPENMP_CXXFLAGS= -fopenmp
+SHLIB_OPENMP_FCFLAGS= -fopenmp
+SHLIB_OPENMP_FFLAGS= -fopenmp
